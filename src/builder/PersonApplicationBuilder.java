@@ -1,3 +1,5 @@
+package builder;
+
 public class PersonApplicationBuilder extends ApplicationBuilder {
     @Override
     void buildName() {

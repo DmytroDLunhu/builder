@@ -1,3 +1,5 @@
+package builder;
+
 public class CompanyApplisationBuilder extends ApplicationBuilder {
     @Override
     void buildName() {

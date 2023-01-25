@@ -1,3 +1,5 @@
+package builder;
+
 public abstract class ApplicationBuilder {
     Application application;
 

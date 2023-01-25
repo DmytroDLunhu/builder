@@ -1,3 +1,5 @@
+package builder;
+
 public class Manager {
     public void setBuilder(ApplicationBuilder builder) {
         this.builder = builder;
