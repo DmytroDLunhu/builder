@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6605c86b-2ff7-4237-b1d1-4f49ea9a134e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/builder/Intention.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/builder/Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ApplicationBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/builder/ApplicationBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BuildApplicationRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/builder/BuildApplicationRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Clouds.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/builder/Clouds.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CompanyApplisationBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/builder/CompanyApplisationBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/builder/Manager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PersonApplicationBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/builder/PersonApplicationBuilder.java" afterDir="false" />
-    </list>
+    <list default="true" id="6605c86b-2ff7-4237-b1d1-4f49ea9a134e" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
