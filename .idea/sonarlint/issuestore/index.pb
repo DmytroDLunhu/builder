@@ -13,5 +13,3 @@ G
 src/builder/Clouds.java,0\6\0609fec1a3a2521f31f6a4c65e3b1705f17774a1
 Y
 )src/builder/PersonApplicationBuilder.java,f\b\fb9b65c37a1de6f8d44bde0c7662cc1a1c25a12a
-I
-src/builder/Intention.txt,5\5\55dfbe81557d4e02b7697a07b5a12a3e0eb70988
